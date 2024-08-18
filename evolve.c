@@ -20,7 +20,7 @@
 #define kb 1.0
 #define sigma 1.0  // length of reference
 
-
+// just add a comment
 int read_param_file(const char* filename, double* params);
 int dynamics(char outputFile[], char parameterFile[]);
 
